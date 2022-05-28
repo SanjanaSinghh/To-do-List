@@ -1,18 +1,18 @@
 {
   "tasks": [
     {
-      "id": 1,
       "task": "new",
-      "status": false
+      "status": "false",
+      "id": 1
     },
     {
       "task": "Buy Bread",
-      "status": false,
+      "status": "false",
       "id": 2
     },
     {
-      "task": "Buy Milk",
-      "status": true,
+      "task": "Milk",
+      "status": "false",
       "id": 3
     }
   ]
